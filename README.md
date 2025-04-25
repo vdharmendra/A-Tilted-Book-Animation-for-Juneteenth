@@ -1,7 +1,8 @@
 # 📘 Happy Freedom: A Tilted Book Animation for Juneteenth
-<a href="https://www.linkedin.com/in/dharmendraverma95/" target="_blank">LinkedIn Profile </a>
 
-<a href="https://www.behance.net/dhirukumar" target="_blank">Behance Profile </a>
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/dhirukumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmendraverma95) 
+
 
 ### Happy Freedom 
 is an interactive web project designed to honor and celebrate Juneteenth through engaging visuals and motion. It features a stylized book that begins in a skewed position and animates upright when hovered over—symbolizing rising, freedom, and transformation. Built with modern web technologies, this animation adds depth and meaning to storytelling and UI design.
