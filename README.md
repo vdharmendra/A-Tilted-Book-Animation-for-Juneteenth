@@ -40,36 +40,36 @@ Content generated with ChatGPT
 <br>
 <span>Desktop Desgin</span><br/>
 <a href="" target="_blank" >
-<img src="." width="575px"/>
+<img src="./img/bookHover.gif" width="575px"/>
 </a>
-<br />
-<span>Mobile Desgin</span><br/>
-<a href="" target="_blank" >
-<img src="." width="275px"/>
-</a>
+
  <br />
-<span>Desktop Desgin ui-ux Layout</span><br/>
+<span>Desktop Desgin </span><br/>
 <a href="" target="_blank" >
-<img src="." width="475px"/>
+<img src="./img/book.png" width="275px"/>
+<img src="./img/bookHover.png" width="275px"/>
+<img src="./img/bookSummary.png" width="275px"/>
 </a>
 <br />
-<span>ui-ux Layout Mobile Desgin</span><br/>
+
+<br>
+<span>Desktop Desgin UI UX</span><br/>
 <a href="" target="_blank" >
-<img src="." width="275px"/>
+<img src="./img/bookHoverUIUXLayout.gif" width="575px"/>
 </a>
- <br />
-<span>Desktop Desgin</span><br/>
+
+
+<span>Desgin UI UX Layout</span><br/>
 <a href="" target="_blank" >
-<img src="." width="475px"/>
+<img src="./img/bookUIUXLayout.png" width="275px"/>
+<img src="./img/bookHoverUIUXLayout.png" width="275px"/>
+<img src="./img/bookSummaryUIUXLayout.png" width="275px"/>
 </a>
 <br />
-<span>Mobile Desgin</span><br/>
-<a href="" target="_blank" >
-<img src="." width="275px"/>
-</a>
+
 <span>Cover</span><br/>
 <a href="" target="_blank" >
-<img src="." width="575px"/>
+<img src="./img/cover.png" width="575px"/>
 </a>
 
 
