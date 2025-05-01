@@ -38,14 +38,14 @@ Content generated with ChatGPT
 
 
 <br>
-<span>Desktop Desgin</span><br/>
-<a href="" target="_blank" >
+<span>Desktop Design</span><br/>
+<a href="https://www.behance.net/gallery/224908205/A-Tilted-Book-Animation" target="_blank" >
 <img src="./img/bookHover.gif" width="575px"/>
 </a>
 
  <br />
-<span>Desktop Desgin </span><br/>
-<a href="" target="_blank" >
+<span>Desktop Design </span><br/>
+<a href="https://www.behance.net/gallery/224908205/A-Tilted-Book-Animation" target="_blank" >
 <img src="./img/book.png" width="275px"/>
 <img src="./img/bookHover.png" width="275px"/>
 <img src="./img/bookSummary.png" width="275px"/>
@@ -53,14 +53,14 @@ Content generated with ChatGPT
 <br />
 
 <br>
-<span>Desktop Desgin UI UX</span><br/>
-<a href="" target="_blank" >
+<span>Desktop Design UI UX</span><br/>
+<a href="https://www.behance.net/gallery/224908205/A-Tilted-Book-Animation" target="_blank" >
 <img src="./img/bookHoverUIUXLayout.gif" width="575px"/>
 </a>
 
 
-<span>Desgin UI UX Layout</span><br/>
-<a href="" target="_blank" >
+<span>Design UI UX Layout</span><br/>
+<a href="https://www.behance.net/gallery/224908205/A-Tilted-Book-Animation" target="_blank" >
 <img src="./img/bookUIUXLayout.png" width="275px"/>
 <img src="./img/bookHoverUIUXLayout.png" width="275px"/>
 <img src="./img/bookSummaryUIUXLayout.png" width="275px"/>
@@ -68,7 +68,7 @@ Content generated with ChatGPT
 <br />
 
 <span>Cover</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/224908205/A-Tilted-Book-Animation" target="_blank" >
 <img src="./img/cover.png" width="575px"/>
 </a>
 
